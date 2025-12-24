@@ -1,0 +1,10 @@
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\bin\Debug\ScoreGame.exe.config
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\bin\Debug\ScoreGame.exe
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\bin\Debug\ScoreGame.pdb
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.csproj.AssemblyReference.cache
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.Form1.resources
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.Properties.Resources.resources
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.csproj.GenerateResource.cache
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.csproj.CoreCompileInputs.cache
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.exe
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\obj\Debug\ScoreGame.pdb
