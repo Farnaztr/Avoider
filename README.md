@@ -1,5 +1,9 @@
 # Avoider – 2D Windows Forms Game
 
+[![Built With C#](https://img.shields.io/badge/Built%20With-C%23-darkgreen.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)  [![Windows Forms](https://img.shields.io/badge/Framework-Windows%20Forms-lightgrey.svg)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)  [![GitHub Stars](https://img.shields.io/github/stars/Farnaztr/Avoider?style=social)](https://github.com/Farnaztr/Avoider/stargazers) [![Issues](https://img.shields.io/github/issues/Farnaztr/Avoider.svg)](https://github.com/Farnaztr/Avoider/issues)
+ 
+
+
 
 ## Overview
 **Avoider** is a 2D game built with **C# and Windows Forms**.  
@@ -51,11 +55,6 @@ Double-click `ScoreGame.exe` to play the game.
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5b7e25fa-bc15-487f-9cb3-bc429a0827e7" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14ea2346-63f4-41ba-b4a6-455a688215c4" />
 
-## Future Enhancements
-- Add **multiple levels** with more obstacles and faster speeds.
-- Implement **animated sprites** for player and obstacles.
-- Add **sound effects and background music**.
-- Create a **leaderboard** for high scores.
 
 ## Author
 **Farnaz Tarabi** – Computer student.
