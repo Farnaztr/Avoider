@@ -1,8 +1,8 @@
-# Avoider – 2D Windows Forms Game
+# -Avoider (2D Windows Forms Game)
 
 [![Built With C#](https://img.shields.io/badge/Built%20With-C%23-darkgreen.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)  [![Windows Forms](https://img.shields.io/badge/Framework-Windows%20Forms-lightgrey.svg)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)  [![GitHub Stars](https://img.shields.io/github/stars/Farnaztr/Avoider?style=social)](https://github.com/Farnaztr/Avoider/stargazers) [![Issues](https://img.shields.io/github/issues/Farnaztr/Avoider.svg)](https://github.com/Farnaztr/Avoider/issues)
  
-
+---
 
 
 ## Overview
