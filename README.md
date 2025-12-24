@@ -1,6 +1,5 @@
 # Avoider – 2D Windows Forms Game
 
-![Game Screenshot](screenshot.png) 
 
 ## Overview
 **Avoider** is a 2D game built with **C# and Windows Forms**.  
