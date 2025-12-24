@@ -6,12 +6,10 @@
 The goal is simple yet challenging: reach your home before time runs out while avoiding moving obstacles and managing your score.
 
 - Start with **30 points**.
-- **120 seconds** countdown timer.
+- **30 seconds** countdown timer.
 - Colliding with obstacles **reduces 5 points**.
 - If your score reaches zero before reaching home → **Game Over**.
 - Reach home with remaining points before time ends → **Victory**.
-
----
 
 ## Features
 - **Windows Forms GUI:** Uses PictureBoxes for player, obstacles, and home.
@@ -21,8 +19,6 @@ The goal is simple yet challenging: reach your home before time runs out while a
 - **Score System:** Tracks player points and displays win/lose messages.
 - **Transparent Sprites:** Game elements are rendered with transparent backgrounds over the background image.
 
----
-
 ## Gameplay Mechanics
 1. Click **Roll Dice** to start the game.
 2. Move the player with **Arrow Keys or On-Screen Buttons**.
@@ -31,9 +27,37 @@ The goal is simple yet challenging: reach your home before time runs out while a
 5. Reach home before time ends → **Win**.
 6. Time ends or score drops to zero → **Game Over**.
 
----
+## Running the Game
+After building the project in Visual Studio, the executable can be found in your local build directory. For example:
+```
+D:\Programming\c#\11th programs\ScoreGame\ScoreGame\bin\Debug\ScoreGame.exe
+```
+Double-click `ScoreGame.exe` to play the game.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Avoider.git
+## Controls
+- **Arrow Keys / Buttons:** Move the player.
+- **Roll Dice Button:** Start the game.
+- **Timer:** 30 seconds countdown.
+- **Score Label:** Displays current points.
+
+## Technologies
+- **C#**
+- **Windows Forms**
+- **Timers**
+- **PictureBox GUI Components**
+## Photos
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a348f936-b291-47db-b95b-d945efbd7c93" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0a880652-c520-4d4a-8422-6f0cdfdb1113" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5b7e25fa-bc15-487f-9cb3-bc429a0827e7" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14ea2346-63f4-41ba-b4a6-455a688215c4" />
+
+## Future Enhancements
+- Add **multiple levels** with more obstacles and faster speeds.
+- Implement **animated sprites** for player and obstacles.
+- Add **sound effects and background music**.
+- Create a **leaderboard** for high scores.
+
+## Author
+**Farnaz Tarabi** – Computer Technology student, passionate about game development and AI.  
+[GitHub Profile](https://github.com/Farnaztr)
+
