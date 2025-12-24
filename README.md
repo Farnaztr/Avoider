@@ -5,7 +5,7 @@
 **Avoider** is a 2D game built with **C# and Windows Forms**.  
 The goal is simple yet challenging: reach your home before time runs out while avoiding moving obstacles and managing your score.
 
-- Start with **30 points**.
+- Start with **25 points**.
 - **30 seconds** countdown timer.
 - Colliding with obstacles **reduces 5 points**.
 - If your score reaches zero before reaching home → **Game Over**.
@@ -37,7 +37,7 @@ Double-click `ScoreGame.exe` to play the game.
 ## Controls
 - **Arrow Keys / Buttons:** Move the player.
 - **Roll Dice Button:** Start the game.
-- **Timer:** 30 seconds countdown.
+- **Timer:** 25 seconds countdown.
 - **Score Label:** Displays current points.
 
 ## Technologies
