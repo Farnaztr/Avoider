@@ -24,8 +24,8 @@ The goal is simple yet challenging: reach your home before time runs out while a
 - **Transparent Sprites:** Game elements are rendered with transparent backgrounds over the background image.
 
 ## Gameplay Mechanics
-1. Click **Roll Dice** to start the game.
-2. Move the player with **Arrow Keys or On-Screen Buttons**.
+1. Click **Roll The Dice** to start the game.
+2. Move the player with **On-Screen Buttons**.
 3. Obstacles automatically move across the screen.
 4. Colliding with an obstacle: lose points and get pushed back.
 5. Reach home before time ends → **Win**.
@@ -40,7 +40,7 @@ Double-click `ScoreGame.exe` to play the game.
 
 ## Controls
 - **Arrow Keys / Buttons:** Move the player.
-- **Roll Dice Button:** Start the game.
+- **Roll The Dice Button:** Start the game.
 - **Timer:** 25 seconds countdown.
 - **Score Label:** Displays current points.
 
