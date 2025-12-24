@@ -58,6 +58,6 @@ Double-click `ScoreGame.exe` to play the game.
 - Create a **leaderboard** for high scores.
 
 ## Author
-**Farnaz Tarabi** – Computer Technology student, passionate about game development and AI.  
+**Farnaz Tarabi** – Computer student.
 [GitHub Profile](https://github.com/Farnaztr)
 
