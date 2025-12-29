@@ -57,6 +57,6 @@ Double-click `ScoreGame.exe` to play the game.
 
 
 ## Author
-**Farnaz Tarabi** – Computer student.
+**Farnaz** – Computer student.
 [GitHub Profile](https://github.com/Farnaztr)
 
